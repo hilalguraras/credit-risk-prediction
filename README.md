@@ -290,15 +290,11 @@ ROC-AUC ≈ 0.87
 
 Clone the repository:
 
+```bash
 git clone https://github.com/hilalguraras/credit-risk-prediction.git
-
-Install dependencies:
-
 pip install -r requirements.txt
-
-Run the notebook:
-
 notebooks/credit_risk_modeling.ipynb
+
 ---
 
 # What I Learned
@@ -324,6 +320,7 @@ Artificial Intelligence & Data Science Enthusiast
 
 GitHub
 https://github.com/hilalguraras
+
 
 
 
