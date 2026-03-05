@@ -185,7 +185,7 @@ ROC-AUC ≈ 0.86
 
 ## ROC Curve
 
-![ROC Curve](reports/figures/roc_curve.png)
+![ROC Curve](./reports/figures/roc_curve.png)
 ---
 
 # Threshold Optimization
@@ -310,6 +310,7 @@ Artificial Intelligence & Data Science Enthusiast
 
 GitHub
 https://github.com/hilalguraras
+
 
 
 
