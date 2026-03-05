@@ -186,8 +186,8 @@ ROC-AUC ≈ 0.86
 # ROC Curve
 
 The ROC curve shows the model's ability to distinguish between default and non-default customers.
- 
-![ROC Curve](\notebooks\reports\figures\roc_curve.png)
+
+![ROC Curve](reports/figures/roc_curve.png)
 ---
 
 # Threshold Optimization
@@ -312,4 +312,5 @@ Artificial Intelligence & Data Science Enthusiast
 
 GitHub
 https://github.com/hilalguraras
+
 
