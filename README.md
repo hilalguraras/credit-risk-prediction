@@ -183,9 +183,7 @@ ROC-AUC ≈ 0.86
 | Logistic Regression | 0.86 | 0.20 | 0.76 | 0.31 |
 | XGBoost | 0.87 | 0.22 | 0.78 | 0.35 |
 
-# ROC Curve
-
-The ROC curve shows the model's ability to distinguish between default and non-default customers.
+## ROC Curve
 
 ![ROC Curve](reports/figures/roc_curve.png)
 ---
@@ -312,6 +310,7 @@ Artificial Intelligence & Data Science Enthusiast
 
 GitHub
 https://github.com/hilalguraras
+
 
 
 
