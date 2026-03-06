@@ -298,13 +298,23 @@ The results show that XGBoost slightly improves recall and overall ROC-AUC compa
 
 Clone the repository:
 
-git clone https://github.com/hilalguraras/credit-risk-prediction.git
-
-pip install -r requirements.txt
-
+```bash
+  git clone https://github.com/hilalguraras/credit-risk-prediction.git
+```
+Navigate to the project folder:
+```bash
+ cd credit-risk-prediction
+```
+Install dependencies:
+```bash
+ pip install -r requirements.txt
+```
+Open the notebook:
+```bash
 notebooks/credit_risk_modeling.ipynb
-
+```
 ---
+ 
 
 # What I Learned
 
@@ -329,6 +339,7 @@ Artificial Intelligence & Data Science Enthusiast
 
 GitHub
 https://github.com/hilalguraras
+
 
 
 
