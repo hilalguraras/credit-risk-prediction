@@ -247,6 +247,9 @@ Two types of explanations were generated:
 
 This improves transparency and interpretability of the model.
 
+
+* SHAP was used to understand the contribution of each feature to the model predictions.
+![SHAP Feature Importance](reports/figures/shap_feature_importance.png)
 ---
 
 # Model 2 — XGBoost
@@ -339,6 +342,7 @@ Artificial Intelligence & Data Science Enthusiast
 
 GitHub
 https://github.com/hilalguraras
+
 
 
 
