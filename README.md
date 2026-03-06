@@ -271,6 +271,14 @@ Performance improved slightly:
 ```
 ROC-AUC ≈ 0.87
 ```
+## Model Performance
+
+| Model | ROC-AUC | Precision | Recall | F1 Score |
+|------|------|------|------|------|
+| Logistic Regression | 0.86 | 0.20 | 0.76 | 0.31 |
+| XGBoost | 0.87 | 0.22 | 0.78 | 0.35 |
+
+The results show that XGBoost slightly improves recall and overall ROC-AUC compared to the Logistic Regression baseline.
 
 ---
 
@@ -321,6 +329,7 @@ Artificial Intelligence & Data Science Enthusiast
 
 GitHub
 https://github.com/hilalguraras
+
 
 
 
